@@ -1,19 +1,19 @@
-// import { people01, people02, people03, facebook, instagram, linkedin, twitter, airbnb, binance, coinbase, dropbox, send, shield, star  } from "../assets";
+import { people01, people02, people03, facebook, instagram, linkedin, twitter, airbnb, binance, coinbase, dropbox, send, shield, star  } from "../assets";
 
-import people01 from "../../public/assets/people01.png"
-import people02 from "../../public/assets/people02.png"
-import people03 from "../../public/assets/people03.png"
-import facebook from "../../public/assets/facebook.svg"
-import instagram from "../../public/assets/instagram.svg"
-import linkedin from "../../public/assets/linkedin.svg"
-import twitter from "../../public/assets/twitter.svg"
-import airbnb from "../../public/assets/airbnb.svg"
-import binance from "../../public/assets/binance.png"
-import coinbase from "../../public/assets/coinbase.png"
-import dropbox from "../../public/assets/dropbox.png"
-import send from "../../public/assets/send.svg"
-import shield from "../../public/assets/airbnb.svg"
-import star from "../../public/assets/star.svg"
+// import people01 from "../assets/people01.png"
+// import people02 from "../assets/people02.png"
+// import people03 from "../assets/people03.png"
+// import facebook from "../assets/facebook.svg"
+// import instagram from "../assets/instagram.svg"
+// import linkedin from "../assets/linkedin.svg"
+// import twitter from "../assets/twitter.svg"
+// import airbnb from "../assets/airbnb.png"
+// import binance from "../assets/binance.png"
+// import coinbase from "../assets/coinbase.png"
+// import dropbox from "../assets/dropbox.png"
+// import send from "../assets/Send.svg"
+// import shield from "../assets/airbnb.svg"
+// import star from "../assets/star.svg"
 
 export const navLinks = [
   {
